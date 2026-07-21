@@ -1,0 +1,3 @@
+In this lesson, you learned about switch statements in Java, including their syntax, their importance, and the different data types that can be used in switch expressions. You also explored advanced features such as `switch` expressions and arrow labels, which provide a more concise and readable way to handle multiple conditions. By understanding and practicing with switch statements, you will be able to write more efficient and maintainable code.
+
+Next steps include learning about repetition structures such as `for`, `while`, and `do-while`, which will allow you to execute blocks of code repeatedly. You will also learn about `break` if and `continue` while statements within loops, and how to use code blocks and scope effectively.
