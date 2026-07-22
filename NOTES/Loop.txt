@@ -1,0 +1,17 @@
+# Choosing the Right Loop
+
+Each type of loop (`for`, `while`, and `do-while`) has its own strengths and weaknesses. Choosing the right loop for a specific task can make your code more readable, efficient, and easier to maintain.
+
+Here is a quick summary of when to use each type of loop:
+
+* **`for` loop:** Use it when you know in advance how many times a block of code needs to be executed. It is ideal for iterating through arrays, collections, or performing a specific number of repetitions.
+
+* **`while` loop:** Use it when you need to execute a block of code repeatedly while a particular condition remains true, but you do not know beforehand how many times the loop will run. It is well suited for situations where the loop's termination depends on external factors or user input.
+
+* **`do-while` loop:** Use it when you need to execute a block of code at least once, regardless of the initial condition. It is especially useful for input validation, menu-driven programs, or any situation where you want to ensure that a block of code runs before the condition is evaluated.
+
+In general, the `for` loop is preferred when the number of iterations is known or can be easily determined. The `while` and `do-while` loops are more flexible and can be used in a wider range of situations.
+
+# Summary
+
+In this lesson, you learned about Java's three fundamental loop structures: `for`, `while`, and `do-while`. You learned the syntax of each loop, explored examples of how they are used in different scenarios, and discovered how to choose the most appropriate loop for a specific task. Understanding and using loops effectively is essential for writing efficient, maintainable, and powerful Java programs.
