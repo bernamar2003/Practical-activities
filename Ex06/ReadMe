@@ -1,0 +1,16 @@
+1) - In this example, the loop iterates through the `numbers` array, printing each element along with its index. `numbers.length` provides the number of elements in the array, ensuring that the loop does not exceed the limits.
+
+2) - This example achieves the same result as Example 2, but with a more concise syntax. The enhanced forloop automatically handles iteration and provides direct access to each element.
+
+Summary:
+In this lesson, you learned about the three fundamental repetition structures in Java: `for`, `while`, and `do-while-while`. You learned the syntax of each loop, saw examples of how to use them in different scenarios, and learned how to choose the right loop for a specific task. Understanding and using loops effectively is essential for writing efficient and powerful Java programs.
+
+Practical Activities
+Continuous Number Addition: Write a do-while loop that continuously prompts the user to enter numbers and adds them until the sum is greater than 100.
+/////////
+
+Password Validation: Write a do-while loop that prompts the user to enter a password and validates it by comparing it to a predefined password. The loop should continue until the user enters the correct password.
+////////////////////////////
+
+Simple Calculator: Create a simple calculator program that allows the user to perform basic arithmetic operations (addition, subtraction, multiplication, and division). Use a do-while loop to display a menu of options and prompt the user to make their choice until they choose to exit.
+Rolling a Dice: Simulate rolling a die until a 6 comes up.
